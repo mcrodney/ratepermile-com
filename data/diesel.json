@@ -1,8 +1,8 @@
 {
- "price": 6.276,
- "week": "2026-10-19",
+ "price": 6.352,
+ "week": "2026-10-26",
  "source": "U.S. EIA weekly retail on-highway diesel, U.S. average",
  "series": "EMD_EPD2D_PTE_NUS_DPG",
  "url": "https://www.eia.gov/petroleum/gasdiesel/",
- "updated": "2026-10-20T15:20:51Z"
+ "updated": "2026-10-27T15:33:08Z"
 }
